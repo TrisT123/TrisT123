@@ -8,6 +8,7 @@
 - 📫 How to reach me **tristan.tammis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a>https://www.linkedin.com/in/tristan-t-56219a218/</a>
 <p align="left">
 </p>
 
