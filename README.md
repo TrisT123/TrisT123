@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Tammis</h1>
 <h3 align="center">I am most passionate about automatization of things and finance.</h3>
 
-- 🔭 I’m currently working on **Jobs opportunities in the Machine Learning and Data Science space**
+- 🔭 I’m currently looking for **Jobs opportunities in the Machine Learning and Data Science space**
 
 - 🌱 I’m currently learning **Machine Learning and Data Science at Turing College plus Financial analysis**
 
